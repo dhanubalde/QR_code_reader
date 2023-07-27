@@ -4,4 +4,4 @@ I am gonna showing to you how to build a QR Code Reader with javascript. this qr
 
 
 # QR Code Reader Site
-https://github.com/dhanubalde/QR_code_reader
+https://dhanubalde.github.io/QR_code_reader
